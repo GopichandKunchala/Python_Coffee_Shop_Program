@@ -15,13 +15,13 @@ This Jupyter Notebook contains a beginner-friendly Python project that simulates
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 
 - **Python_Coffee_Shop_Program (1).ipynb** — The main notebook containing all the logic and code for the POS system.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
